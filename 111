@@ -1,0 +1,23 @@
+[33mcommit 4a4c0d56a932239bb8a34c81850868b246d44ccd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Your Name <email@example.com>
+Date:   Mon Mar 13 15:05:24 2023 +0800
+
+    append GPL
+
+[33mcommit a900c32fcf74a7cdc09b7e0666ea831531b4b9e9[m
+Author: Your Name <email@example.com>
+Date:   Mon Mar 13 15:03:18 2023 +0800
+
+    add distributed
+
+[33mcommit ef2764b755f0123d81af6adaf978c73e5cd985a5[m
+Author: Your Name <email@example.com>
+Date:   Mon Mar 13 14:51:00 2023 +0800
+
+    wrote a readme file
+
+[33mcommit fcedee7683f7247728b27f6ab33c0306da135103[m
+Author: Your Name <email@example.com>
+Date:   Mon Mar 13 14:41:14 2023 +0800
+
+    wrote a readme file
